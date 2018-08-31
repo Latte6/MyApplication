@@ -50,4 +50,4 @@ https://github.com/Latte6/MyApplication
 
 
 https://www.youtube.com/watch?v=lF5m4o_CuNg - Used for log-in screen
-https://www.youtube.com/watch?annotation_id=annotation_245689227&feature=iv&src_vid=aQAIMY-HzL8&v=nY2bYJyGty8 - Used for hooking database and displaying arrays
+https://www.youtube.com/watch?annotation_id=annotation_245689227&feature=iv&src_vid=aQAIMY-HzL8&v=nY2bYJyGty8 - Used for hooking database and displaying arrays.
